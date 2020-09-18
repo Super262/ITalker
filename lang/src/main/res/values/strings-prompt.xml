@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="prompt_empty">主动一点，世界会更大。</string>
+    <string name="prompt_error">出错啦！</string>
+    <string name="prompt_loading">加载中</string>
+</resources>
