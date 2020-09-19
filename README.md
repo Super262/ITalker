@@ -23,22 +23,32 @@ App包含三个模块，分别是消息模块、聊天模块和联系人模块�
 
 #### 1. 权限申请界面
 
+![image](https://github.com/Super262/ITalker/blob/master/screenshots/pic00001.png)
 
 #### 2. 注册界面
 
+![image](https://github.com/Super262/ITalker/blob/master/screenshots/pic00002.png)
+
 #### 3. 登录界面
 
+![image](https://github.com/Super262/ITalker/blob/master/screenshots/pic00003.png)
+
 #### 4. 最新消息界面
+
+![image](https://github.com/Super262/ITalker/blob/master/screenshots/pic00004.png)
 
 #### 5. 群聊界面
 
 选择一个群，可以开始群聊。单击右下角的“建群”按钮，可以创建一个群。
 
+![image](https://github.com/Super262/ITalker/blob/master/screenshots/pic00005.png)
+![image](https://github.com/Super262/ITalker/blob/master/screenshots/pic00006.png)
 
 #### 6. 联系人界面
 
 点击右下角的添加联系人按钮，可以添加新的联系人；选择一个联系人，开始单聊，可以发送语音、图片和表情。点击任意一个联系人的头像，可以查看他（或她）的个人信息。
-
+![image](https://github.com/Super262/ITalker/blob/master/screenshots/pic00007.png)
+![image](https://github.com/Super262/ITalker/blob/master/screenshots/pic00008.png)
 
 ### 四、 设计后台接口
 
@@ -79,11 +89,12 @@ getGroup：获取群信息
 5. MessageService：消息服务
 ```
 ### 六、 数据库设计
+![image](https://github.com/Super262/ITalker/blob/master/screenshots/pic00009.png)
 
 ### 七、 管理网站的界面
-
-
-
+![image](https://github.com/Super262/ITalker/blob/master/screenshots/pic00010.png)
+![image](https://github.com/Super262/ITalker/blob/master/screenshots/pic00011.png)
+![image](https://github.com/Super262/ITalker/blob/master/screenshots/pic00012.png)
 
 ### 八、 测试
 App端发送消息、语音、表情和图片的功能是正常的。网站中目前实现的功能是正常的，不足的是没有实现聊天室信息详细展示。
