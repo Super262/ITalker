@@ -1,5 +1,7 @@
 # ITalker
 
+## 手机端即时通讯App
+[iTalker-Web](https://github.com/Super262/iTalker-Web) is the web server for ITalker. 
 ## 概述：
 
 开发一个APP或微信小程序，实现聊天室列表、进入聊天等功能，支持两台或多台手机之间的聊天，聊天类型可以是文本、语音、图片、视频和位置分享。设计数据库，用于保存用户信息及聊天内容。开发一个后台接口及网站，用于接收APP或小程序上传的数据，并可以通过网站展示聊天室信息、用户信息及聊天内容。
