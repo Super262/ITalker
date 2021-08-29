@@ -15,28 +15,28 @@ The application contains three modules: the message module, the chat module, and
 
 ### 3. User Interfaces
 
-#### 3.1 Permission Request
+### 3.1 Permission Request
 
 ![image](https://github.com/Super262/ITalker/blob/master/screenshots/pic00001.png)
 
-#### 3.2 Registration
+### 3.2 Registration
 
 ![image](https://github.com/Super262/ITalker/blob/master/screenshots/pic00002.png)
 
-#### 3.3 Login
+### 3.3 Login
 
 ![image](https://github.com/Super262/ITalker/blob/master/screenshots/pic00003.png)
 
-#### 3.4 News & Events
+### 3.4 News & Events
 
 ![image](https://github.com/Super262/ITalker/blob/master/screenshots/pic00004.png)
 
-#### 3.5 Group Chatroom
+### 3.5 Group Chatroom
 
 ![image](https://github.com/Super262/ITalker/blob/master/screenshots/pic00005.png)
 ![image](https://github.com/Super262/ITalker/blob/master/screenshots/pic00006.png)
 
-#### 3.6 Contact
+### 3.6 Contact
 
 ![image](https://github.com/Super262/ITalker/blob/master/screenshots/pic00007.png)
 ![image](https://github.com/Super262/ITalker/blob/master/screenshots/pic00008.png)
